@@ -1,10 +1,8 @@
-# 🧮 Simple Calculator
+# 🔢 Simple Calculator
 
-A responsive, modern calculator built with **HTML**, **CSS**, and **JavaScript**. This project allows users to perform basic arithmetic operations with both **button clicks** and **keyboard input**.
+A basic calculator web app built with **HTML**, **CSS**, and **JavaScript**, capable of performing standard arithmetic operations like addition, subtraction, multiplication, and division.
 
----
-
- Features
+## Features
 
 -  Add, Subtract, Multiply, Divide
 -  Real-time display update
@@ -17,12 +15,31 @@ A responsive, modern calculator built with **HTML**, **CSS**, and **JavaScript**
   - `Delete` to clear all
 -  Styled operators and custom shadows for an elegant interface
 
+## 🛠️ Tech Stack
+
+- **HTML** – Structure and layout  
+- **CSS** – Styling and layout design  
+- **JavaScript** – Logic and interactivity
+
+## 📁 Project Structure
+simple-calculator/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
 ---
 
- How to Use
+## 💡 What I Learned
 
-1. Clone or download the project.
-2. Open `index.html` in your browser.
-3. Start calculating using on-screen buttons or your keyboard!
+- DOM manipulation in JavaScript  
+- Handling user input and events  
+- Structuring code for clarity and reusability
+
+---
+
+
+
+
 
 
